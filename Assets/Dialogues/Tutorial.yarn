@@ -1,0 +1,75 @@
+﻿title: Tutorial
+tags:
+---
+Oh, you're here.
+From now on, this is your cannery.
+<<ShowMoney>>
+This shows how much money you have.
+<<ShowTime>>
+This is the current time.
+Your goal is to collect enough money before 18:30.
+<<ShowShop>>
+Here is the shop.
+<<ShowShopMachine>>
+Under the Machine tab, you can upgrade your machines.
+With better machines, you can make the process faster.
+<<ShowShopEmployee>>
+And under the Employee tab, you can hire employees.
+Each employee has a different skill.
+Also, you can make the process faster with more employees.
+<<ShowCloseShop>>
+Alright, let's close the shop.
+===
+
+title: Fishing
+tags:
+---
+<<StartGame>>
+The first process is fishing.
+Fishermen will bring you fish once the process bar is full.
+But one thing to remember is that if you leave the fish for too long, it will stink, and you will lose money.
+Now, click the fish to collect it.
+===
+
+title: MoveToButchering
+tags:
+---
+Now click the arrow on the right to move to the next process.
+===
+
+title: Butchering
+tags:
+---
+This brings us to the next process, butchering.
+===
+
+title: Washing
+tags:
+---
+After that, workers will wash the fish.
+===
+
+title: MoveToCanning
+tags:
+---
+Let's click the right arrow to move to the next process.
+===
+
+title: Canning
+tags:
+---
+Here the workers will can the fish.
+===
+
+title: Transport
+tags:
+---
+For the final process, workers will transport the fish to the market.
+Collect the fish to sell it for money!
+===
+
+title: End
+tags:
+---
+Now you know how to run your business. Good luck!
+===
